@@ -2,17 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Ruan Henrique Rodrigues de Morais
+Matricula: 902434
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela de inspeção](images/inspecao.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Print do projeto no Replit](images/replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
